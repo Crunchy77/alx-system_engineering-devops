@@ -5,3 +5,6 @@
 5-execute  adds execution permission to the owmer of the file
 6-multiple_permissions adds execution permission to the owner and the group owner and read permissions to others
 7-everybody adds execution permission to everyone
+8-James_Bond sets no permissions to owner and owner groups but all permission to others9-John_Doe adds all permissions to the owner, read and execute to the owner groups, write and execute permissions to others10-mirror_permissions mirrors the permissions of olleh to hello11-directories_permissions adds execution permissions to all subdirectories except regular files
+12-directory_permissions creates directory my_dir  wit permissions 751
+13-change_group changes the group owner of hello
