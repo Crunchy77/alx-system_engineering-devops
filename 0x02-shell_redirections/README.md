@@ -1,0 +1,1 @@
+0-hello_world prints Hello, World1-confused_smiley prints confused smiley2-hellofile prints the contents of passwd3-twofiles displays the contents of passwd and hosts
